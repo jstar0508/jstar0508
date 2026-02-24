@@ -1,82 +1,54 @@
-### 💡 I build scalable backend systems and integrate AI into real-world products.
+# Hi, I'm JStar 👋
 
-If you need:
+I’m a **Full Stack Web Developer** with experience building scalable web applications, APIs, and custom business solutions.
 
-* A reliable backend (Spring Boot, Node, Python)
-* AI integrated into your product (OpenAI, LLMs, embeddings, RAG)
-* Automation that saves hours of manual work
-* ML-powered APIs deployed with Docker
+I work across backend, frontend, and database layers, and I enjoy building clean, reliable systems from idea to deployment.
 
-You're in the right place.
+## 🚀 Tech Stack
 
----
+### Languages
+- PHP
+- Python
+- JavaScript
+- HTML
+- CSS
 
-## 🚀 What I Do
+### Backend / Frameworks
+- Laravel
+- Symfony
+- Drupal
+- Django
+- Flask
+- FastAPI
+- Node.js / Express.js
 
-### 🔹 Backend Engineering
+### Frontend
+- React
+- Vue.js
+- Angular
 
-* REST API development (Spring Boot, FastAPI, Express)
-* Microservices architecture
-* Database design (PostgreSQL, MySQL, MongoDB)
-* Redis, Queues, Background Jobs
-* Docker & Docker Compose
-* System optimization & performance tuning
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
 
-### 🔹 AI Integration & Automation
+### APIs
+- REST API / RESTful API
+- GraphQL
 
-* OpenAI / GPT integrations
-* RAG (Retrieval Augmented Generation) systems
-* Chatbot development (Telegram, LINE, WhatsApp)
-* AI workflow automation
-* Prompt engineering & fine-tuning
-* ML model deployment (Scikit-learn, PyTorch)
-* Vector databases (Pinecone, FAISS)
+## 💼 What I Build
+- Custom web applications
+- Admin dashboards
+- API integrations
+- CRM / ERP customizations
+- WordPress custom features
+- SaaS platforms
+- Automation tools
 
----
-
-## 🧠 Technical Stack
-
-Languages:
-Java, Python, JavaScript, SQL
-
-Backend:
-Spring Boot, FastAPI, Node.js
-
-AI & ML:
-OpenAI API, LangChain, PyTorch, Scikit-learn, Pandas, NumPy
-
-DevOps:
-Docker, Git, Linux, CI/CD
-
-Databases:
-PostgreSQL, MySQL, MongoDB, Redis
-
----
-
-## 🏆 Recent Work
-
-✔️ Built AI chatbot integrated with Telegram for automated customer credit evaluation
-✔️ Developed backend SaaS system with role-based architecture
-✔️ Integrated OpenAI into business workflow automation
-✔️ Optimized legacy enterprise systems using automation tools
-
----
-
-## 🎯 Why Clients Work With Me
-
-* Strong backend architecture mindset
-* AI integration focused on real business results
-* Clean, maintainable code
-* Clear communication & fast delivery
-* Thinks like a product owner, not just a coder
-
----
-
-## 💬 Let’s Build Something Smart
-
-Whether you need:
-
-* AI added to your SaaS
-* A backend from scratch
-* Automation for business workflows
-* ML models deployed as APIs
+## 🛠️ What I Focus On
+- Clean architecture
+- Performance and scalability
+- Maintainable code
+- API-first development
+- Practical solutions for real business needs
