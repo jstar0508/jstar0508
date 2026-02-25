@@ -1,54 +1,11 @@
-# Hi, I'm JStar 👋
+Hi, I’m JStar — a Full Stack Web Developer and Software Engineer with 8+ years of experience building products in startup environments.
 
-I’m a **Full Stack Web Developer** with experience building scalable web applications, APIs, and custom business solutions.
+Over the years, I’ve grown from junior to senior roles while working on the full software development lifecycle, including system design, development, testing, deployment, and maintenance.
 
-I work across backend, frontend, and database layers, and I enjoy building clean, reliable systems from idea to deployment.
+I enjoy building reliable, scalable software and helping teams ship real products that users actually use. 
 
-## 🚀 Tech Stack
+I’ve worked in fast-paced, product-focused teams where I had to take ownership, move quickly, and still keep code quality and stability in mind.
 
-### Languages
-- PHP
-- Python
-- JavaScript
-- HTML
-- CSS
+I’m comfortable collaborating with developers, designers, product managers, and other stakeholders, and I like being part of small teams where communication and execution really matter.
 
-### Backend / Frameworks
-- Laravel
-- Symfony
-- Drupal
-- Django
-- Flask
-- FastAPI
-- Node.js / Express.js
-
-### Frontend
-- React
-- Vue.js
-- Angular
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-
-### APIs
-- REST API / RESTful API
-- GraphQL
-
-## 💼 What I Build
-- Custom web applications
-- Admin dashboards
-- API integrations
-- CRM / ERP customizations
-- WordPress custom features
-- SaaS platforms
-- Automation tools
-
-## 🛠️ What I Focus On
-- Clean architecture
-- Performance and scalability
-- Maintainable code
-- API-first development
-- Practical solutions for real business needs
+My focus is on building practical, maintainable solutions and contributing across the stack to turn ideas into production-ready products.
